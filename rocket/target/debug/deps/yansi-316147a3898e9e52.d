@@ -1,0 +1,12 @@
+Z:\GitHub\stuff\tests\web_test\rocket_test\target\debug\deps\yansi-316147a3898e9e52.rmeta: C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-0.5.1\src\lib.rs C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-0.5.1\src\macros.rs C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-0.5.1\src\windows.rs C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-0.5.1\src\paint.rs C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-0.5.1\src\style.rs C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-0.5.1\src\color.rs
+
+Z:\GitHub\stuff\tests\web_test\rocket_test\target\debug\deps\libyansi-316147a3898e9e52.rlib: C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-0.5.1\src\lib.rs C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-0.5.1\src\macros.rs C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-0.5.1\src\windows.rs C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-0.5.1\src\paint.rs C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-0.5.1\src\style.rs C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-0.5.1\src\color.rs
+
+Z:\GitHub\stuff\tests\web_test\rocket_test\target\debug\deps\yansi-316147a3898e9e52.d: C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-0.5.1\src\lib.rs C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-0.5.1\src\macros.rs C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-0.5.1\src\windows.rs C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-0.5.1\src\paint.rs C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-0.5.1\src\style.rs C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-0.5.1\src\color.rs
+
+C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-0.5.1\src\lib.rs:
+C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-0.5.1\src\macros.rs:
+C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-0.5.1\src\windows.rs:
+C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-0.5.1\src\paint.rs:
+C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-0.5.1\src\style.rs:
+C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yansi-0.5.1\src\color.rs:
