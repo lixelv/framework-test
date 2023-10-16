@@ -1,4 +1,4 @@
-# Global Test of Web Frameworks' Speed
+# Global Test of Web Frameworks Speed
 
 In this repository, you'll find the results of a comprehensive web framework test. The test includes 19 different frameworks, and the programs were written in both Python and Rust. The scence of my web-apps is to return json with my id address, on fastapi it seems like this:
 ```py
