@@ -54,8 +54,6 @@ async def return_ip(request: Request):
 ## - [rocket](#rocket)
 
 
-# Python
-## [fastapi](#fastapi)
 
 ---
 
