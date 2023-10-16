@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fHEW6M0F9J3L49+oubkbz5FmltgE8FQuvh5XVgzpY+PLiwMYUSu2GeFldKMk0ylATzXpNEt6cOk7v6vzU2k+2w==",
+  "dgSpecHash": "wHDpPGwzk8g0Vrjwi5LyJM+z5aBTqhlHhqjc253rg1R+gV1RG+0QcHYsvw4OQVDWl01pffdMcuBiZiR+Iwdxfg==",
   "success": true,
-  "projectFilePath": "Z:\\GitHub\\framework_test\\asp.net\\asp.net.csproj",
+  "projectFilePath": "Z:\\GitHub\\framework-test\\asp.net\\asp.net.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.11\\microsoft.aspnetcore.openapi.7.0.11.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

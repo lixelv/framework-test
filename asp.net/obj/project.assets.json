@@ -474,11 +474,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\GitHub\\framework_test\\asp.net\\asp.net.csproj",
+      "projectUniqueName": "Z:\\GitHub\\framework-test\\asp.net\\asp.net.csproj",
       "projectName": "asp.net",
-      "projectPath": "Z:\\GitHub\\framework_test\\asp.net\\asp.net.csproj",
+      "projectPath": "Z:\\GitHub\\framework-test\\asp.net\\asp.net.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "Z:\\GitHub\\framework_test\\asp.net\\obj\\",
+      "outputPath": "Z:\\GitHub\\framework-test\\asp.net\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"

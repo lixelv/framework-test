@@ -1,0 +1,12 @@
+Z:\GitHub\framework-test\rocket\target\debug\deps\cookie-247f06331d30a38f.rmeta: C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.11.5\src\lib.rs C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.11.5\src\builder.rs C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.11.5\src\parse.rs C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.11.5\src\jar.rs C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.11.5\src\delta.rs C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.11.5\src\draft.rs
+
+Z:\GitHub\framework-test\rocket\target\debug\deps\libcookie-247f06331d30a38f.rlib: C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.11.5\src\lib.rs C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.11.5\src\builder.rs C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.11.5\src\parse.rs C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.11.5\src\jar.rs C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.11.5\src\delta.rs C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.11.5\src\draft.rs
+
+Z:\GitHub\framework-test\rocket\target\debug\deps\cookie-247f06331d30a38f.d: C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.11.5\src\lib.rs C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.11.5\src\builder.rs C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.11.5\src\parse.rs C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.11.5\src\jar.rs C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.11.5\src\delta.rs C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.11.5\src\draft.rs
+
+C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.11.5\src\lib.rs:
+C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.11.5\src\builder.rs:
+C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.11.5\src\parse.rs:
+C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.11.5\src\jar.rs:
+C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.11.5\src\delta.rs:
+C:\Users\user\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.11.5\src\draft.rs:
