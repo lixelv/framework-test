@@ -40,28 +40,45 @@ async def return_ip(request: Request):
 | [web.py](#web.py)    | 4.8448 s       | 4.8946 s      |
 
 ---
-# [Go](#Go)
-## - [fiber](#fiber)
-## - [fasthttp](#fasthttp)
-## - [gorilla](#gorilla)
-## - [echo](#echo)
+## [Go](#Go)
+### - [fiber](#fiber)
+### - [fasthttp](#fasthttp)
+### - [gorilla](#gorilla)
+### - [echo](#echo)
 
 
-# [Rust](#Rust)
-## - [actix_web](#actix_web)
-## - [warp](#warp)
-## - [tide](#tide)
-## - [rocket](#rocket)
+## [Rust](#Rust)
+### - [actix_web](#actix_web)
+### - [warp](#warp)
+### - [tide](#tide)
+### - [rocket](#rocket)
 
 
+## [Python](#Python)
+### - [fastapi](#fastapi)
+### - [flask](#flask)
+### - [django](#django)
+### - [cherrypy](#cherrypy)
+### - [bottle](#bottle)
+### - [pyramid](#pyramid)
+### - [tornado](#tornado)
+### - [web.py](#web.py)
 
+
+## [TypeScript](#TypeScript)
+### - [nestjs](#nestjs)
+### - [express](#express)
+
+
+## [C#](#C#)
+### - [asp.net](#asp.net)
 ---
 
 ## 📚 In-Depth Analysis
 
 Now let's dive into the details. First, I will explain the languages and frameworks used in this test.
 
-# 🐹 Go
+# 🐹 Go <a id="Go"></a>
 ## 📚 Base
 🐹 Developed by Google, Go (or Golang) is a statically-typed, compiled language designed for simplicity and efficiency. It's the go-to language (pun intended!) for web backends, particularly because of its straightforward syntax, high performance, and strong support for concurrent programming.
 
@@ -185,7 +202,7 @@ func main() {
 ## 🧮 Summarizing
 Go is have very simple syntax, also go is language with fastest web frameworks. Go is really good choice for small services and api. This is really good language for webdev, so if you are searching for fast, easy framework, here they are!
 
-# 🦀 Rust
+# 🦀 Rust<a id="Rust"></a>
 ## 📚 Base
 🦀 Rust is a systems programming language that empowers you to build reliable and efficient software, free from the common pitfalls of memory-related bugs. Developed by Mozilla, Rust is designed with safety, concurrency, and practicality in mind.
 
@@ -260,7 +277,7 @@ async fn main() -> tide::Result<()> {
 }
 ```
 
-## [rocket](https://github.com/SergioBenitez/Rocket) <a id="rocket"></a>
+## 🌐 [rocket](https://github.com/SergioBenitez/Rocket) <a id="rocket"></a>
 🚀 Rocket is a web framework for Rust that focuses on ease-of-use, expressibility, and speed. It offers a wide range of built-in features and is type-safe. Here is the code:
 ```rs
 #![feature(proc_macro_hygiene, decl_macro)]
@@ -287,7 +304,7 @@ fn main() {
 ## 🧮 Summarizing
 Rust offers the best of both worlds: the performance of C/C++ and the safety of higher-level languages. Its ecosystem is growing, making it ideal not only for systems programming but also for web development. With features like memory safety and zero-cost abstractions, Rust is the future of efficient, reliable software. If you're looking to write high-performance applications without the headaches of common bugs and vulnerabilities, Rust is the way to go.
 
-# 🐍 Python
+# 🐍 Python <a id="Python"></a>
 ## 📚 Base
 Python is a high-level, interpreted programming language known for its readability and versatility. Created by Guido van Rossum and first released in 1991, Python has become a staple in web development, data science, artificial intelligence, and much more.
 
@@ -453,7 +470,7 @@ class get_ip:
 if __name__ == "__main__":
     web.httpserver.runsimple(app.wsgifunc(), ("0.0.0.0", 9014))
 ```
-# 📘 TypeScript
+# 📘 TypeScript <a id="TypeScript"></a>
 ## 📚 Base
 TypeScript is a strongly typed superset of JavaScript that brings static typing to the often dynamic world of JS. Developed by Microsoft, TypeScript aims to make large codebases more manageable and less error-prone.
 
