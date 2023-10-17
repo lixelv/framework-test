@@ -395,7 +395,7 @@ if __name__ == '__main__':
 
 ## 🌐 [bottle](https://github.com/bottlepy/bottle) <a id="bottle"></a>
 🍼 Bottle is a simple and lightweight WSGI micro web-framework for Python. It's useful for small applications and rapid developmen. Here is the code on bottle:)
-```pt
+```py
 from bottle import route, run, request
 import json
 
