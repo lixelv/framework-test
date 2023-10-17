@@ -17,7 +17,7 @@ async def return_ip(request: Request):
 
 ### Making 1,000 requests to each web framework server
 
-| Framework  | Time (Python)  | Time (Rust)   |
+| Framework  | Time (Rust)  | Time (Python)   |
 |------------|----------------|---------------|
 | [fiber](#fiber)      | 0.5874 s       | 0.7943 s      |
 | [fasthttp](#fasthttp)   | 0.5944 s       | 0.7584 s      |
