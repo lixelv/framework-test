@@ -17,7 +17,7 @@ async def return_ip(request: Request):
 
 ### Making 1,000 requests to each web framework server
 
-| Framework  | Time (Python)  | Time (Rust)   |
+| Framework  | Time (Rust)  | Time (Python)   |
 |------------|----------------|---------------|
 | [fiber](#fiber)      | 0.5874 s       | 0.7943 s      |
 | [fasthttp](#fasthttp)   | 0.5944 s       | 0.7584 s      |
@@ -395,7 +395,7 @@ if __name__ == '__main__':
 
 ## 🌐 [bottle](https://github.com/bottlepy/bottle) <a id="bottle"></a>
 🍼 Bottle is a simple and lightweight WSGI micro web-framework for Python. It's useful for small applications and rapid developmen. Here is the code on bottle:)
-```pt
+```py
 from bottle import route, run, request
 import json
 
